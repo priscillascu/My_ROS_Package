@@ -7,14 +7,7 @@ project(crp09)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS
-  geometry_msgs
-  roscpp
-  rviz
-  tf
-  urdf
-  xacro
-)
+find_package(catkin REQUIRED COMPONENTS geometry_msgs roscpp rviz tf urdf xacro gazebo_msgs gazebo_plugins gazebo_ros gazebo_ros_control)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)

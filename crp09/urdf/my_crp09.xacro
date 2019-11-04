@@ -1,5 +1,82 @@
 <?xml version="1.0"?>
-<robot name="crp09">
+<robot name="my_crp09" xmlns:xacro="http://ros.org/wiki/xacro">
+  <!-- Include materials -->
+
+    <material name="Black">
+        <color rgba="0.0 0.0 0.0 1.0"/>
+    </material>
+
+    <material name="Red">
+        <color rgba="0.8 0.0 0.0 1.0"/>
+    </material>
+
+    <material name="White">
+        <color rgba="1.0 1.0 1.0 1.0"/>
+    </material>
+
+
+  <xacro:property name="deg_to_rad" value="0.01745329251994329577"/>
+
+  <!-- Constants -->
+  <xacro:property name="M_SCALE" value="0.001 0.001 0.001"/> 
+  <xacro:property name="M_PI" value="3.14159"/>
+
+   <xacro:macro name="inertial_matrix" params="mass">
+      <inertial>
+      	<mass value="${mass}" />
+        <inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="0.5" iyz="0.0" izz="1.0" />
+      </inertial>
+   </xacro:macro>
+
+   <xacro:macro name="transmission_block" params="joint_name">
+	  <transmission name="tran1">
+	    <type>transmission_interface/SimpleTransmission</type>
+	    <joint name="${joint_name}">
+	      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+	    </joint>
+	    <actuator name="motor1">
+	      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+	      <mechanicalReduction>1</mechanicalReduction>
+	    </actuator>
+	  </transmission>
+   </xacro:macro>
+
+<!-- BOTTOM FIXED LINK 
+This link is the base of the arm in which arm is placed 
+-->
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+  <joint name="bottom_joint" type="fixed">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="base_link"/>
+    <child link="bottom_link"/>
+  </joint>
+
+  <link name="bottom_link">
+
+    <visual>
+      <origin xyz=" 0 0 -0.01"  rpy="0 0 0"/>
+      <geometry>
+
+	       <box size="1 1 0.02" />
+
+      </geometry>
+      <material name="Brown" />
+    </visual>
+
+    <collision>
+      <origin xyz=" 0 0 -0.01"  rpy="0 0 0"/>
+      <geometry>
+	       <box size="1 1 0.02" />
+      </geometry>
+      </collision>>
+
+  </link>
+
+  <gazebo reference="bottom_link">
+    <material>Gazebo/Red</material>
+  </gazebo>
 
   <link name="base_link">
 
@@ -26,7 +103,7 @@
     </inertial>
 
   <gazebo reference="base_link">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
   </link>
 
@@ -62,7 +139,7 @@
 	<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
     </inertial>
   <gazebo reference="link1">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/Red</material>
   </gazebo>
   </link>
 
@@ -98,7 +175,7 @@
 	<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
     </inertial>
   <gazebo reference="link2">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
   </link>
 
@@ -135,7 +212,7 @@
     </inertial>
 
   <gazebo reference="link3">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/Red</material>
   </gazebo>
   </link>
   
@@ -172,7 +249,7 @@
     </inertial>
 
   <gazebo reference="link4">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
   </link>
 
@@ -209,7 +286,7 @@
     </inertial>
 
   <gazebo reference="link5">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/Red</material>
   </gazebo>
   </link>
 
@@ -247,7 +324,7 @@
     </inertial>
 
   <gazebo reference="link_tool">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
   </link>
 
@@ -284,7 +361,7 @@
     </inertial>
 
   <gazebo reference="gripper_finger1">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
   </link>
 
@@ -321,8 +398,33 @@
     </inertial>
 
   <gazebo reference="gripper_finger2">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/White</material>
   </gazebo>
 
   </link>
+
+
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- Transmissions for ROS Control -->
+
+   <xacro:transmission_block joint_name="joint1"/>
+   <xacro:transmission_block joint_name="joint2"/>
+   <xacro:transmission_block joint_name="joint3"/>
+   <xacro:transmission_block joint_name="joint4"/>
+   <xacro:transmission_block joint_name="joint5"/>
+   <xacro:transmission_block joint_name="joint6"/>
+   <xacro:transmission_block joint_name="finger_joint1"/>
+   <xacro:transmission_block joint_name="finger_joint2"/>
+	
+ <!-- ros_control plugin -->
+  <gazebo>
+    <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
+      <robotNamespace>/my_crp09</robotNamespace>
+    </plugin>
+  </gazebo>
+
+
+
+
 </robot>

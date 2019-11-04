@@ -1,6 +1,6 @@
 <launch>
   <arg name="model" />
-  <param name="robot_description" textfile="$(find crp09)/urdf/crp09.urdf" />
+  <param name="robot_description" textfile="$(find crp09)/urdf/my_crp09.urdf" />
   <param name="use_gui" value="true"/>
 
   <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
