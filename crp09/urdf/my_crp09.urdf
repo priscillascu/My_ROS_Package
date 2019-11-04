@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<robot name="my_crp09">
+
+  <link name="base_link">
+
+    <visual>
+      <geometry>
+	<cylinder length="0.25" radius="0.1125"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0.125"/>
+      <material name="yellow">
+        <color rgba="1 1 0 1"/>
+      </material>
+    </visual>
+
+    <collision>
+      <geometry>
+	<cylinder length="0.25" radius="0.1125"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0.125"/>
+    </collision>
+    <inertial>
+	<mass value="1"/>
+	<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
+    </inertial>
+  </link>
+
+  <joint name="pan_joint" type="revolute">
+    <parent link="base_link"/>
+    <child link="pan_link"/>
+    <origin xyz="0 0 0.25"/>
+    <axis xyz="0 0 1" />
+    <limit effort="300" velocity="0.1" lower="-2.96" upper="2.96"/>
+    <dynamics damping="50" friction="1"/>
+  </joint>
+
+  <link name="pan_link">
+    <visual>
+      <geometry>
+	<cylinder length="0.171" radius="0.1125"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0.0855"/>
+      <material name="red">
+        <color rgba="0 0 1 1"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+	<cylinder length="0.171" radius="0.1125"/>
+      </geometry>
+      <origin rpy="0 0 0" xyz="0 0 0.0855"/>
+    </collision>
+    <inertial>
+	<mass value="1"/>
+	<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0"/>
+    </inertial>
+  </link>
+
+</robot>
