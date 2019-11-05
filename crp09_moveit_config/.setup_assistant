@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: crp09
+    relative_path: urdf/my_crp09.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/my_crp09.srdf
+  CONFIG:
+    author_name: HaixinYang
+    author_email: 941705864@qq.com
+    generated_timestamp: 1572873573
