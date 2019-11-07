@@ -1,0 +1,3883 @@
+header: 
+  seq: 18417
+  stamp: 
+    secs: 1573113167
+    nsecs: 184314966
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18418
+  stamp: 
+    secs: 1573113167
+    nsecs: 284478902
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18419
+  stamp: 
+    secs: 1573113167
+    nsecs: 384396076
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18420
+  stamp: 
+    secs: 1573113167
+    nsecs: 484476089
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18421
+  stamp: 
+    secs: 1573113167
+    nsecs: 584424018
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18422
+  stamp: 
+    secs: 1573113167
+    nsecs: 684379100
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18423
+  stamp: 
+    secs: 1573113167
+    nsecs: 784377098
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18424
+  stamp: 
+    secs: 1573113167
+    nsecs: 884352922
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18425
+  stamp: 
+    secs: 1573113167
+    nsecs: 984704017
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18426
+  stamp: 
+    secs: 1573113168
+    nsecs:  84719896
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18427
+  stamp: 
+    secs: 1573113168
+    nsecs: 184396982
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18428
+  stamp: 
+    secs: 1573113168
+    nsecs: 284333944
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18429
+  stamp: 
+    secs: 1573113168
+    nsecs: 384382009
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18430
+  stamp: 
+    secs: 1573113168
+    nsecs: 484569072
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18431
+  stamp: 
+    secs: 1573113168
+    nsecs: 584444046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18432
+  stamp: 
+    secs: 1573113168
+    nsecs: 684314966
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18433
+  stamp: 
+    secs: 1573113168
+    nsecs: 784439086
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18434
+  stamp: 
+    secs: 1573113168
+    nsecs: 884394884
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18435
+  stamp: 
+    secs: 1573113168
+    nsecs: 984405994
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18436
+  stamp: 
+    secs: 1573113169
+    nsecs:  84386110
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18437
+  stamp: 
+    secs: 1573113169
+    nsecs: 184539079
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18438
+  stamp: 
+    secs: 1573113169
+    nsecs: 284503936
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18439
+  stamp: 
+    secs: 1573113169
+    nsecs: 384515047
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18440
+  stamp: 
+    secs: 1573113169
+    nsecs: 484488964
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18441
+  stamp: 
+    secs: 1573113169
+    nsecs: 584553003
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18442
+  stamp: 
+    secs: 1573113169
+    nsecs: 684354066
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18443
+  stamp: 
+    secs: 1573113169
+    nsecs: 784347057
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18444
+  stamp: 
+    secs: 1573113169
+    nsecs: 884490013
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18445
+  stamp: 
+    secs: 1573113169
+    nsecs: 984569072
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18446
+  stamp: 
+    secs: 1573113170
+    nsecs:  84544897
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18447
+  stamp: 
+    secs: 1573113170
+    nsecs: 184482097
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18448
+  stamp: 
+    secs: 1573113170
+    nsecs: 285023927
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18449
+  stamp: 
+    secs: 1573113170
+    nsecs: 385229110
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18450
+  stamp: 
+    secs: 1573113170
+    nsecs: 484836101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18451
+  stamp: 
+    secs: 1573113170
+    nsecs: 584408044
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18452
+  stamp: 
+    secs: 1573113170
+    nsecs: 684283971
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18453
+  stamp: 
+    secs: 1573113170
+    nsecs: 784495115
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18454
+  stamp: 
+    secs: 1573113170
+    nsecs: 884426116
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18455
+  stamp: 
+    secs: 1573113170
+    nsecs: 984422922
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18456
+  stamp: 
+    secs: 1573113171
+    nsecs:  84700107
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18457
+  stamp: 
+    secs: 1573113171
+    nsecs: 185429096
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18458
+  stamp: 
+    secs: 1573113171
+    nsecs: 284652948
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18459
+  stamp: 
+    secs: 1573113171
+    nsecs: 384403944
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18460
+  stamp: 
+    secs: 1573113171
+    nsecs: 484446048
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18461
+  stamp: 
+    secs: 1573113171
+    nsecs: 584501028
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18462
+  stamp: 
+    secs: 1573113171
+    nsecs: 684245109
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18463
+  stamp: 
+    secs: 1573113171
+    nsecs: 784256935
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18464
+  stamp: 
+    secs: 1573113171
+    nsecs: 884928941
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18465
+  stamp: 
+    secs: 1573113171
+    nsecs: 984685897
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18466
+  stamp: 
+    secs: 1573113172
+    nsecs:  85251092
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18467
+  stamp: 
+    secs: 1573113172
+    nsecs: 184547901
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18468
+  stamp: 
+    secs: 1573113172
+    nsecs: 284363985
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18469
+  stamp: 
+    secs: 1573113172
+    nsecs: 384577035
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18470
+  stamp: 
+    secs: 1573113172
+    nsecs: 484791040
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18471
+  stamp: 
+    secs: 1573113172
+    nsecs: 584573984
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18472
+  stamp: 
+    secs: 1573113172
+    nsecs: 685165882
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18473
+  stamp: 
+    secs: 1573113172
+    nsecs: 784593105
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18474
+  stamp: 
+    secs: 1573113172
+    nsecs: 884814023
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18475
+  stamp: 
+    secs: 1573113172
+    nsecs: 984919071
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18476
+  stamp: 
+    secs: 1573113173
+    nsecs:  84189891
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18477
+  stamp: 
+    secs: 1573113173
+    nsecs: 184386014
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18478
+  stamp: 
+    secs: 1573113173
+    nsecs: 284351110
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18479
+  stamp: 
+    secs: 1573113173
+    nsecs: 384412050
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18480
+  stamp: 
+    secs: 1573113173
+    nsecs: 485212087
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18481
+  stamp: 
+    secs: 1573113173
+    nsecs: 584723949
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18482
+  stamp: 
+    secs: 1573113173
+    nsecs: 684405088
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18483
+  stamp: 
+    secs: 1573113173
+    nsecs: 784574985
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18484
+  stamp: 
+    secs: 1573113173
+    nsecs: 884388923
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18485
+  stamp: 
+    secs: 1573113173
+    nsecs: 984663009
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18486
+  stamp: 
+    secs: 1573113174
+    nsecs:  84866046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18487
+  stamp: 
+    secs: 1573113174
+    nsecs: 184586048
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18488
+  stamp: 
+    secs: 1573113174
+    nsecs: 284476041
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18489
+  stamp: 
+    secs: 1573113174
+    nsecs: 384639024
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18490
+  stamp: 
+    secs: 1573113174
+    nsecs: 484622001
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18491
+  stamp: 
+    secs: 1573113174
+    nsecs: 584414005
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18492
+  stamp: 
+    secs: 1573113174
+    nsecs: 684367895
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18493
+  stamp: 
+    secs: 1573113174
+    nsecs: 784432888
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18494
+  stamp: 
+    secs: 1573113174
+    nsecs: 884424924
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18495
+  stamp: 
+    secs: 1573113174
+    nsecs: 984553098
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18496
+  stamp: 
+    secs: 1573113175
+    nsecs:  84294080
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18497
+  stamp: 
+    secs: 1573113175
+    nsecs: 184330940
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18498
+  stamp: 
+    secs: 1573113175
+    nsecs: 284252882
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18499
+  stamp: 
+    secs: 1573113175
+    nsecs: 384309053
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18500
+  stamp: 
+    secs: 1573113175
+    nsecs: 484421014
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18501
+  stamp: 
+    secs: 1573113175
+    nsecs: 584389925
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18502
+  stamp: 
+    secs: 1573113175
+    nsecs: 684561967
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18503
+  stamp: 
+    secs: 1573113175
+    nsecs: 784409999
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18504
+  stamp: 
+    secs: 1573113175
+    nsecs: 884414911
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18505
+  stamp: 
+    secs: 1573113175
+    nsecs: 984400033
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18506
+  stamp: 
+    secs: 1573113176
+    nsecs:  84314107
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18507
+  stamp: 
+    secs: 1573113176
+    nsecs: 184323072
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18508
+  stamp: 
+    secs: 1573113176
+    nsecs: 284624099
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18509
+  stamp: 
+    secs: 1573113176
+    nsecs: 384212970
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18510
+  stamp: 
+    secs: 1573113176
+    nsecs: 484189033
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901045998352784, 0.09868523641008348, -0.0009882046693732304, -1.8512196546880664, 1.519946258302192, 1.6862915472844093, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18511
+  stamp: 
+    secs: 1573113176
+    nsecs: 584228992
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4901033540369573, 0.09868530240759837, -0.000988162130334589, -1.8512180481880651, 1.519945495372625, 1.6862899955113646, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18512
+  stamp: 
+    secs: 1573113176
+    nsecs: 684339046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4823404474438757, 0.09909655078931795, -0.0007230898647003619, -1.8412075117805013, 1.515191474705689, 1.676620477585251, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18513
+  stamp: 
+    secs: 1573113176
+    nsecs: 784368991
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4745875760218714, 0.09950726754698455, -0.00045836026009156124, -1.8312099160729471, 1.510443599599069, 1.6669634595218443, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18514
+  stamp: 
+    secs: 1573113176
+    nsecs: 884387969
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4668328457896735, 0.09991808277713371, -0.00019356718453621634, -1.8212099233653913, 1.5056945861530953, 1.65730412611453, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18515
+  stamp: 
+    secs: 1573113176
+    nsecs: 984385967
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4590772305870154, 0.10032894488955114, 7.125610922697036e-05, -1.8112087894578346, 1.5009450307493113, 1.6476436903832825, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18516
+  stamp: 
+    secs: 1573113177
+    nsecs:  84378957
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4513224729094718, 0.10073976157364722, 0.00033605012193129824, -1.8012087613585563, 1.4961960004957489, 1.6379843227898987, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18517
+  stamp: 
+    secs: 1573113177
+    nsecs: 184417963
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4435643955949646, 0.10115075411910561, 0.0006009574869837997, -1.7912044524726574, 1.4914449372893817, 1.6283208202389778, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18518
+  stamp: 
+    secs: 1573113177
+    nsecs: 284337043
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.435814803590001, 0.10156129714610386, 0.0008655751125942152, -1.781211085686743, 1.4866990705047993, 1.6186678870349573, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18519
+  stamp: 
+    secs: 1573113177
+    nsecs: 384284019
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4280597934286274, 0.10197212720580416, 0.0011303777466132464, -1.7712107320008383, 1.4819498856295974, 1.6090082049463663, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18520
+  stamp: 
+    secs: 1573113177
+    nsecs: 484292984
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4203012979012146, 0.10238314190654405, 0.0013952993919667063, -1.76120588381494, 1.4771985663087486, 1.5993441814672158, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18521
+  stamp: 
+    secs: 1573113177
+    nsecs: 584487915
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4125498834429546, 0.10279378147997882, 0.0016599792470807732, -1.7512101669125, 1.4724515834498544, 1.5896889782056332, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18522
+  stamp: 
+    secs: 1573113177
+    nsecs: 684241056
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.4047949385596672, 0.10320460808150185, 0.0019247796521138, -1.741209897404944, 1.4677024385510924, 1.580029377427775, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18523
+  stamp: 
+    secs: 1573113177
+    nsecs: 784293889
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3970390999430682, 0.10361548202951472, 0.002189610574571062, -1.7312084753973869, 1.462952746328131, 1.5703686634109288, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18524
+  stamp: 
+    secs: 1573113177
+    nsecs: 884282112
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3892862992442552, 0.10402619504054368, 0.002454337764265251, -1.7212109708898329, 1.4582049145325455, 1.5607117334407072, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18525
+  stamp: 
+    secs: 1573113177
+    nsecs: 984193086
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3815310837982326, 0.10443703597542056, 0.002719147407935428, -1.7112103524822766, 1.4534556039405835, 1.5510517956484604, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18526
+  stamp: 
+    secs: 1573113178
+    nsecs:  84352970
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3737772386915896, 0.10484780431508511, 0.002983910259987066, -1.7012115011747215, 1.4487071325474001, 1.541393564758266, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18527
+  stamp: 
+    secs: 1573113178
+    nsecs: 184497117
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3660189575658264, 0.10525880765766547, 0.0032488245843802195, -1.6912069294671621, 1.4439559445265822, 1.5317298083389557, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18528
+  stamp: 
+    secs: 1573113178
+    nsecs: 284472942
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3582646976583603, 0.10566959797185273, 0.0035136016002238085, -1.6812075432596065, 1.4392072191084841, 1.52207106077064, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18529
+  stamp: 
+    secs: 1573113178
+    nsecs: 384495019
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3505116750965536, 0.106080322736314, 0.003778336365653419, -1.6712097526520524, 1.4344592514435246, 1.512413854446688, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18530
+  stamp: 
+    secs: 1573113178
+    nsecs: 484551906
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3427562372535375, 0.1064911754529124, 0.004043153603292969, -1.6612088474558848, 1.4297098046551662, 1.502753639635558, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18531
+  stamp: 
+    secs: 1573113178
+    nsecs: 584537982
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3349996445056664, 0.10690208935184589, 0.004308010276322192, -1.6512064529699833, 1.4249596506005948, 1.4930919862687706, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18532
+  stamp: 
+    secs: 1573113178
+    nsecs: 684348106
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3272458790569488, 0.10731285347154561, 0.004572770408373731, -1.6412077043840765, 1.4202112279900958, 1.4834338546009131, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18533
+  stamp: 
+    secs: 1573113178
+    nsecs: 784374952
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.319494011657384, 0.10772351704003642, 0.004837465729624926, -1.6312114033981662, 1.415463967748974, 1.4737780871532216, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18534
+  stamp: 
+    secs: 1573113178
+    nsecs: 884370088
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.311738707203784, 0.10813436269018606, 0.005102278412548488, -1.6212106702122622, 1.4107146026485804, 1.4641180384926609, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18535
+  stamp: 
+    secs: 1573113178
+    nsecs: 984416007
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.3039834287908658, 0.1085452069608024, 0.005367090206286746, -1.6112099706067171, 1.4059652534955562, 1.4544580222685124, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18536
+  stamp: 
+    secs: 1573113179
+    nsecs:  84387063
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2962280887262374, 0.10895605449748483, 0.005631904105184753, -1.6012091914991606, 1.4012158665868926, 1.4447979292506645, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18537
+  stamp: 
+    secs: 1573113179
+    nsecs: 184204101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.288473954212851, 0.10936683816878497, 0.005896676839321185, -1.5912099669916053, 1.3964672179603979, 1.4351393378738841, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18538
+  stamp: 
+    secs: 1573113179
+    nsecs: 284281015
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.280720689238, 0.10977757577533971, 0.00616141988218838, -1.5812118637840509, 1.3917191018411696, 1.4254818295989495, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18539
+  stamp: 
+    secs: 1573113179
+    nsecs: 384495019
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.272961681571031, 0.11018861760722709, 0.006426359015062892, -1.5712063551764908, 1.386967468884957, 1.4158171681960314, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18540
+  stamp: 
+    secs: 1573113179
+    nsecs: 485125064
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2652092619399398, 0.11059931043078092, 0.006691073192815849, -1.561209342068937, 1.3822198704560626, 1.4061607128858, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18541
+  stamp: 
+    secs: 1573113179
+    nsecs: 584440946
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2574514386537836, 0.11101028951881238, 0.006955971883814409, -1.551205360761378, 1.377468962817203, 1.3964975267539503, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18542
+  stamp: 
+    secs: 1573113179
+    nsecs: 684457063
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2496932727633956, 0.11142128675667397, 0.007220882273379587, -1.541200937653819, 1.372717845366776, 1.3868339138724393, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18543
+  stamp: 
+    secs: 1573113179
+    nsecs: 784280061
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2419465199055584, 0.11183167937677921, 0.007485402953451329, -1.5312112320462707, 1.3679737172819908, 1.377184517125248, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18544
+  stamp: 
+    secs: 1573113179
+    nsecs: 884346008
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2341921995223926, 0.11224247289473215, 0.007750182034298611, -1.5212117678532096, 1.3632249548284443, 1.3675256942280776, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18545
+  stamp: 
+    secs: 1573113179
+    nsecs: 984287023
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2264356294958978, 0.11265338558997615, 0.008015037931483558, -1.511209402667308, 1.3584748146884922, 1.3578640691631576, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18546
+  stamp: 
+    secs: 1573113180
+    nsecs:  84362030
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2186762887798217, 0.11306444506550055, 0.008279988436655327, -1.5012034645814112, 1.3537229777722912, 1.3481989929124925, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18547
+  stamp: 
+    secs: 1573113180
+    nsecs: 184205055
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.2109269135197256, 0.11347497661020475, 0.008544598661293895, -1.4912103772954963, 1.3489772437227312, 1.3385463296870372, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18548
+  stamp: 
+    secs: 1573113180
+    nsecs: 284338951
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.203173062690514, 0.11388574525302857, 0.0088093617087484, -1.4812115186084913, 1.3442287688250345, 1.3288880916687809, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18549
+  stamp: 
+    secs: 1573113180
+    nsecs: 384478092
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1954153609210691, 0.11429671790358067, 0.009074256250436438, -1.4712076940009327, 1.33947793560327, 1.3192250568987962, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18550
+  stamp: 
+    secs: 1573113180
+    nsecs: 484396934
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.187661569787388, 0.11470748338396915, 0.009339017259526924, -1.4612089122933776, 1.3347294972632444, 1.3095668932376112, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18551
+  stamp: 
+    secs: 1573113180
+    nsecs: 584361076
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1799034675633817, 0.11511847724903523, 0.009603925475139365, -1.4512045712858184, 1.3299784188022465, 1.2999033596592853, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18552
+  stamp: 
+    secs: 1573113180
+    nsecs: 684403896
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1721521444519458, 0.1155291119832731, 0.009868602211124107, -1.4412089721782657, 1.3252314918843435, 1.2902482701797948, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18553
+  stamp: 
+    secs: 1573113180
+    nsecs: 784419059
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1643964163403333, 0.11593998007716466, 0.010133429360277287, -1.431207692670709, 1.3204818673348733, 1.2805876938085503, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18554
+  stamp: 
+    secs: 1573113180
+    nsecs: 884963035
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.156642793949705, 0.1163507366182072, 0.010398184607466244, -1.421209128563154, 1.3157335323334556, 1.2709297403346138, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18555
+  stamp: 
+    secs: 1573113180
+    nsecs: 984319925
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1488870474593684, 0.11676160568573156, 0.010663012384179472, -1.411207825355597, 1.3109838965288154, 1.2612691410707324, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18556
+  stamp: 
+    secs: 1573113181
+    nsecs:  84353923
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1411350297562386, 0.11717227721671647, 0.010927712837697305, -1.4012113305480438, 1.3062365442414674, 1.2516131864041171, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18557
+  stamp: 
+    secs: 1573113181
+    nsecs: 185305118
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1333785844091033, 0.1175831833069364, 0.011192564477579922, -1.3912091261404862, 1.3014864804554231, 1.2419517166404734, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18558
+  stamp: 
+    secs: 1573113181
+    nsecs: 284502983
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1256112839188022, 0.11799466446011848, 0.011457786777260937, -1.3811929236505651, 1.2967297689563946, 1.2322767256525082, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18559
+  stamp: 
+    secs: 1573113181
+    nsecs: 384392023
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1178691915189043, 0.11840481018741848, 0.011722148321301598, -1.371209227864637, 1.2919884949460585, 1.222633133996625, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18560
+  stamp: 
+    secs: 1573113181
+    nsecs: 484268903
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1101146471845151, 0.11881561556942995, 0.011986935049189004, -1.3612094748787316, 1.2872395953443019, 1.212974032144614, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18561
+  stamp: 
+    secs: 1573113181
+    nsecs: 584337949
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.1023577240848956, 0.11922654696910498, 0.012251803002411455, -1.3512066543928305, 1.2824892389816105, 1.203311967289924, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18562
+  stamp: 
+    secs: 1573113181
+    nsecs: 684561014
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0946060544278295, 0.11963720006197283, 0.012516491571545836, -1.341210608402708, 1.2777420998384192, 1.193656446151345, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18563
+  stamp: 
+    secs: 1573113181
+    nsecs: 784312963
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0868494989634447, 0.1200481119857733, 0.012781346971492871, -1.3312082619951502, 1.2729919686163347, 1.1839948392250668, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18564
+  stamp: 
+    secs: 1573113181
+    nsecs: 884322881
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0790958690507226, 0.12045886892530688, 0.013046102475531299, -1.3212096881875954, 1.2682436290083707, 1.17433687638157, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18565
+  stamp: 
+    secs: 1573113181
+    nsecs: 984383106
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0713403784666706, 0.12086972443591876, 0.013310921514066654, -1.3112087149800387, 1.2634941499212886, 1.1646765958759238, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18566
+  stamp: 
+    secs: 1573113182
+    nsecs:  84377050
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0635860582273595, 0.12128051794625083, 0.013575700590001875, -1.301209250972483, 1.258745387555839, 1.1550177731579394, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18567
+  stamp: 
+    secs: 1573113182
+    nsecs: 184425115
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0558316090364592, 0.12169131828793296, 0.013840484069119008, -1.2912096206773958, 1.2539965462201592, 1.1453587898171667, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18568
+  stamp: 
+    secs: 1573113182
+    nsecs: 284457921
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0480757981986066, 0.12210219076433666, 0.014105314043042988, -1.2812082344914926, 1.2492468710089621, 1.1356981104016755, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18569
+  stamp: 
+    secs: 1573113182
+    nsecs: 384690999
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0403213234241981, 0.12251299246133283, 0.014370098395734778, -1.271208571205587, 1.244498014005887, 1.1260390951939485, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18570
+  stamp: 
+    secs: 1573113182
+    nsecs: 484508991
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.032566737214235, 0.12292380006174816, 0.014634886553505831, -1.2612087642196814, 1.2397490887594391, 1.1163799411814992, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18571
+  stamp: 
+    secs: 1573113182
+    nsecs: 584644079
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.024811078446753, 0.12333466448205933, 0.014899711334833822, -1.251207574133778, 1.2349995066764634, 1.1067194511856742, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18572
+  stamp: 
+    secs: 1573113182
+    nsecs: 684417009
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0170571233011243, 0.1237454386511583, 0.015164477944277477, -1.241208580927147, 1.230250967895169, 1.0970610832303311, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18573
+  stamp: 
+    secs: 1573113182
+    nsecs: 785047054
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0093035132405261, 0.12415619453900414, 0.015429232770445134, -1.2312100327195923, 1.2255026404446883, 1.0874031451147461, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18574
+  stamp: 
+    secs: 1573113182
+    nsecs: 884391069
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-1.0015443268268946, 0.12456724584018948, 0.015694178006804494, -1.221204293612032, 1.2207508980236357, 1.0777382610640307, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18575
+  stamp: 
+    secs: 1573113182
+    nsecs: 984780073
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9937933377119338, 0.12497786288060247, 0.015958843338143146, -1.2112091252044797, 1.216004175645891, 1.0680835876123338, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18576
+  stamp: 
+    secs: 1573113183
+    nsecs:  84866046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9860340293938541, 0.12538892063980794, 0.01622379273705269, -1.2012032288969194, 1.2112523585702928, 1.0584185517167861, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18577
+  stamp: 
+    secs: 1573113183
+    nsecs: 184403896
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9782792779912273, 0.1257997369914835, 0.01648858653549366, -1.1912032088893634, 1.2065033321595027, 1.0487591919394723, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18578
+  stamp: 
+    secs: 1573113183
+    nsecs: 284486055
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9705298761156089, 0.1262102699461738, 0.016753197668946042, -1.1812100872818128, 1.2017575818105397, 1.0391064955615803, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18579
+  stamp: 
+    secs: 1573113183
+    nsecs: 384355068
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9627739165251299, 0.12662115030290894, 0.0170180327221783, -1.1712085092742557, 1.1970078155029147, 1.029445630859023, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18580
+  stamp: 
+    secs: 1573113183
+    nsecs: 484348058
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9550210193574025, 0.12703186842448308, 0.01728276320590075, -1.1612108803667016, 1.1922599246295589, 1.019788580726606, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18581
+  stamp: 
+    secs: 1573113183
+    nsecs: 584316015
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9472672349048717, 0.12744263355093038, 0.017547523986856627, -1.151212107274721, 1.187511490381084, 1.0101304253874979, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18582
+  stamp: 
+    secs: 1573113183
+    nsecs: 684418916
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9395105933021647, 0.1278535500380017, 0.01781238232808344, -1.1412096497888193, 1.182761306407706, 1.0004687111668658, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18583
+  stamp: 
+    secs: 1573113183
+    nsecs: 785164117
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9317516090712968, 0.12826459062833623, 0.018077320660708666, -1.1312041714029222, 1.178009687803812, 0.9908040789560807, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18584
+  stamp: 
+    secs: 1573113183
+    nsecs: 884640932
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9239960282389104, 0.12867545091995133, 0.01834214278086431, -1.1212030818170187, 1.1732601534484561, 0.981143686036627, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18585
+  stamp: 
+    secs: 1573113183
+    nsecs: 984836101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9162413028297345, 0.12908626589459568, 0.018606935691732714, -1.1112030953289163, 1.1685111429561115, 0.9714843586368945, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18586
+  stamp: 
+    secs: 1573113184
+    nsecs:  84650039
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.9084875824192445, 0.1294970276283465, 0.018871694285908586, -1.1012044048213612, 1.16376274792712, 0.9618262830688947, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18587
+  stamp: 
+    secs: 1573113184
+    nsecs: 184268951
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.900731824917183, 0.12990789727922894, 0.01913652243862826, -1.0912030874138041, 1.1590131053788757, 0.9521656700887497, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18588
+  stamp: 
+    secs: 1573113184
+    nsecs: 284349918
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8929824359144263, 0.13031842955196546, 0.019401133132523816, -1.0812099824062533, 1.154267362913281, 0.9425129897453631, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18589
+  stamp: 
+    secs: 1573113184
+    nsecs: 385468006
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8852224550281026, 0.13072952294120185, 0.01966610549695357, -1.0712032187986924, 1.1495151339554457, 0.9328471160952175, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18590
+  stamp: 
+    secs: 1573113184
+    nsecs: 484563112
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8774675765253545, 0.13114034602614394, 0.019930903635356215, -1.0612030348911363, 1.1447660297082687, 0.9231875980013137, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18591
+  stamp: 
+    secs: 1573113184
+    nsecs: 584882020
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8697143795595373, 0.1315510800298465, 0.02019564435598644, -1.0512050193835818, 1.1400179552379188, 0.9135301744387947, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18592
+  stamp: 
+    secs: 1573113184
+    nsecs: 684760093
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.86195828720798, 0.1319619674197435, 0.02046048394247946, -1.0412032701760245, 1.1352681076271243, 0.9038691443683288, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18593
+  stamp: 
+    secs: 1573113184
+    nsecs: 784571886
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8542075007242679, 0.1323725737255467, 0.020725142354769993, -1.0312083630684725, 1.1305215093411916, 0.894214723315198, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18594
+  stamp: 
+    secs: 1573113184
+    nsecs: 884421110
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8464491487202185, 0.132783580822981, 0.020990059099373626, -1.021203699960913, 1.1257702779143588, 0.8845508786095159, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18595
+  stamp: 
+    secs: 1573113184
+    nsecs: 984365940
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8386978315944266, 0.1331942152401229, 0.021254735630972525, -1.0112081085720552, 1.121023354662077, 0.8748957965857754, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18596
+  stamp: 
+    secs: 1573113185
+    nsecs:  84337949
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8309451224182824, 0.1336049234026394, 0.02151945969553299, -1.0012107220861466, 1.1162755789151704, 0.8652389806166791, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18597
+  stamp: 
+    secs: 1573113185
+    nsecs: 184556961
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8231815656074051, 0.1340162062303507, 0.02178455416350886, -0.9911993472002575, 1.1115211600534598, 0.855568652775805, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18598
+  stamp: 
+    secs: 1573113185
+    nsecs: 284538984
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.815433663436936, 0.13442665973653697, 0.022049114088018185, -0.98120815951434, 1.1067763281271508, 0.8459178244386593, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18599
+  stamp: 
+    secs: 1573113185
+    nsecs: 384628057
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.8076756041868478, 0.13483765132501324, 0.0223140208362429, -0.9712038739231338, 1.1020252759834723, 0.8362543443888752, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18600
+  stamp: 
+    secs: 1573113185
+    nsecs: 484390974
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7999178808592373, 0.13524862511763253, 0.022578916114056227, -0.9612000215155749, 1.0972744295594408, 0.8265912827659241, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18601
+  stamp: 
+    secs: 1573113185
+    nsecs: 584861993
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7921688197267142, 0.13565914002108845, 0.022843515612492378, -0.9512073393080246, 1.092528887882281, 0.816939010819452, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18602
+  stamp: 
+    secs: 1573113185
+    nsecs: 684204101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7844143298913291, 0.13606994251595617, 0.02310830047945639, -0.9412076566004689, 1.0877800216558315, 0.8072799768516918, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18603
+  stamp: 
+    secs: 1573113185
+    nsecs: 784255981
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7766629239593139, 0.1364805816377039, 0.02337298004343324, -0.9312119506929162, 1.083033044018428, 0.7976247842104452, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18604
+  stamp: 
+    secs: 1573113185
+    nsecs: 884366035
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7689086352042305, 0.13689137348012492, 0.023637758044307792, -0.9212125272853607, 1.0782843009339869, 0.7879660007093832, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18605
+  stamp: 
+    secs: 1573113185
+    nsecs: 984170913
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7611473000308303, 0.13730253861418548, 0.023902776652234017, -0.9112040172777984, 1.073531242607838, 0.7782984401520199, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18606
+  stamp: 
+    secs: 1573113186
+    nsecs:  84196090
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7533987795584937, 0.13771302487558265, 0.02416735768928346, -0.9012120322702486, 1.0687860320321374, 0.7686468416547646, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18607
+  stamp: 
+    secs: 1573113186
+    nsecs: 184345006
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7456439990756072, 0.13812384276781645, 0.024432152480699187, -0.8912119747626926, 1.0640369878125342, 0.758987445654924, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18608
+  stamp: 
+    secs: 1573113186
+    nsecs: 284274101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7378891726072513, 0.13853466309618026, 0.024696948842335094, -0.881211857955284, 1.0592879154313304, 0.749327992375337, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18609
+  stamp: 
+    secs: 1573113186
+    nsecs: 384320974
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7301336178307773, 0.13894552200745516, 0.02496177007278536, -0.8712108019693804, 1.0545383970326714, 0.739667631911267, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18610
+  stamp: 
+    secs: 1573113186
+    nsecs: 484292984
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7223792153305072, 0.1393563198756506, 0.025226551957603885, -0.8612112318834747, 1.049789584290434, 0.7300087067285927, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18611
+  stamp: 
+    secs: 1573113186
+    nsecs: 584306955
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7146246678166763, 0.13976712542609646, 0.02549133879405653, -0.8512114747975693, 1.0450406827415804, 0.7203496009162523, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18612
+  stamp: 
+    secs: 1573113186
+    nsecs: 684227943
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.7068588895066124, 0.1401785259401324, 0.025756509117359966, -0.8411972352116843, 1.0402849034289976, 0.710676505964123, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18613
+  stamp: 
+    secs: 1573113186
+    nsecs: 784296989
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.69911508183017, 0.14058876253606448, 0.026020929231246135, -0.8312113275173566, 1.0355425789796227, 0.701030777750612, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18614
+  stamp: 
+    secs: 1573113186
+    nsecs: 884288072
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6913565702336559, 0.1409997780880824, 0.02628585142529524, -0.821206458609797, 1.0307912498180216, 0.6913667342557032, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18615
+  stamp: 
+    secs: 1573113186
+    nsecs: 984285116
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6836033974626149, 0.1414105108100405, 0.026550591319770465, -0.8112084743022426, 1.0260431901646045, 0.6817093408303264, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18616
+  stamp: 
+    secs: 1573113187
+    nsecs:  84284067
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6758496750358937, 0.14182127265060335, 0.02681534998279259, -0.8012097811946877, 1.0212947939008687, 0.6720512627508981, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18617
+  stamp: 
+    secs: 1573113187
+    nsecs: 184437990
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6680921300672087, 0.14223223699446544, 0.02708023917036073, -0.791206158787129, 1.016544056704226, 0.6623884232927775, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18618
+  stamp: 
+    secs: 1573113187
+    nsecs: 284296035
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6603403565607122, 0.1426428955888693, 0.027344931285538526, -0.7812099788795759, 1.0117968539634208, 0.6527327727987932, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18619
+  stamp: 
+    secs: 1573113187
+    nsecs: 384332895
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6525833393018048, 0.14305383197673457, 0.027609802453924723, -0.7712070369720179, 1.0070464399373793, 0.6430705906587907, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18620
+  stamp: 
+    secs: 1573113187
+    nsecs: 484450101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6448294764368165, 0.1434646012571667, 0.027874565912352947, -0.7612081627644628, 1.002297957668947, 0.6334123376487066, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18621
+  stamp: 
+    secs: 1573113187
+    nsecs: 584285974
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6370763557000534, 0.14387533122255258, 0.02813930403006534, -0.7512102455569084, 0.9975499298814335, 0.6237550090375045, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18622
+  stamp: 
+    secs: 1573113187
+    nsecs: 684245109
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6293214102764649, 0.14428615785269863, 0.028404104453547494, -0.7412099753526155, 0.9928007846517901, 0.6140954075866443, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18623
+  stamp: 
+    secs: 1573113187
+    nsecs: 784281015
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6215643195970033, 0.14469709813009726, 0.02866897812895247, -0.7312069387667146, 0.9880503256628433, 0.6044331339936073, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18624
+  stamp: 
+    secs: 1573113187
+    nsecs: 884284019
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6138095681336188, 0.14510791448499152, 0.028933771929468072, -0.7212069186808096, 0.9833012992148452, 0.5947737741406134, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18625
+  stamp: 
+    secs: 1573113187
+    nsecs: 984302043
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.6060576398593773, 0.14551858127838424, 0.029198469329346423, -0.7112105391948993, 0.9785540016939406, 0.5851179308670992, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18626
+  stamp: 
+    secs: 1573113188
+    nsecs:  84310054
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5983033028090781, 0.14592937567929662, 0.029463248979309766, -0.7012110535089935, 0.9738052290334057, 0.5754590872092582, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18627
+  stamp: 
+    secs: 1573113188
+    nsecs: 184204101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5905483829814477, 0.14634020095346909, 0.029728048528792145, -0.6912108163115733, 0.969056099478782, 0.5657995176408602, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18628
+  stamp: 
+    secs: 1573113188
+    nsecs: 284346103
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5827829170928794, 0.14675158491663803, 0.02999320818414889, -0.6811969796040069, 0.9643005114937941, 0.5561268118426149, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18629
+  stamp: 
+    secs: 1573113188
+    nsecs: 384341001
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5750385088794395, 0.14716185332666776, 0.030257648803975794, -0.6712102974964611, 0.9595578192742723, 0.5464803355970114, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18630
+  stamp: 
+    secs: 1573113188
+    nsecs: 484293937
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5672839495616209, 0.14757265950244264, 0.030522436043487495, -0.6612105251889053, 0.9548089104966312, 0.5368212150815607, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18631
+  stamp: 
+    secs: 1573113188
+    nsecs: 584301948
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.559529678875072, 0.14798345038766347, 0.03078721342739373, -0.6512111250813499, 0.9500601784773997, 0.5271624540867619, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18632
+  stamp: 
+    secs: 1573113188
+    nsecs: 684268951
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5517742578510008, 0.14839430221326005, 0.031052030090733464, -0.6412102415737934, 0.9453107419889992, 0.5175022602253995, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18633
+  stamp: 
+    secs: 1573113188
+    nsecs: 784312963
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5440207776822289, 0.14880505121994578, 0.03131678048161387, -0.6312118608662386, 0.9405624940845517, 0.507844483903767, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18634
+  stamp: 
+    secs: 1573113188
+    nsecs: 884298086
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.536262184660988, 0.14921607108552676, 0.031581705455992294, -0.6212068869586789, 0.9358111150582734, 0.4981803389857834, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18635
+  stamp: 
+    secs: 1573113188
+    nsecs: 984322071
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5285104918037447, 0.1496267254074491, 0.0318463948173201, -0.611210811051126, 0.9310639617072439, 0.48852478894893986, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18636
+  stamp: 
+    secs: 1573113189
+    nsecs:  84319114
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5207558022888522, 0.15003753848055493, 0.032111186502542036, -0.6012108708499428, 0.9263149731966354, 0.4788655062593186, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18637
+  stamp: 
+    secs: 1573113189
+    nsecs: 184313058
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5129996959955628, 0.15044842660903027, 0.03237602656508953, -0.5912091036640402, 0.9215651170478942, 0.4692044588229568, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18638
+  stamp: 
+    secs: 1573113189
+    nsecs: 284712076
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.5052436104849656, 0.15085931363652, 0.03264086591799108, -0.5812073632781376, 0.9168152736265185, 0.4595434372736274, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18639
+  stamp: 
+    secs: 1573113189
+    nsecs: 384392023
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.497486765785726, 0.15127024088285004, 0.03290573119415358, -0.5712046438922364, 0.9120649652763879, 0.44988147007486917, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18640
+  stamp: 
+    secs: 1573113189
+    nsecs: 484424114
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.48973601134585426, 0.15168084549109612, 0.03317038851227491, -0.5612097781063241, 0.9073183866141719, 0.44022708893571705, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18641
+  stamp: 
+    secs: 1573113189
+    nsecs: 584403038
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4819821311157027, 0.15209161569146656, 0.03343515256365413, -0.5512108815057906, 0.9025698937112764, 0.4305688142954927, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18642
+  stamp: 
+    secs: 1573113189
+    nsecs: 684267044
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4742266385154192, 0.15250247130889047, 0.033699971671035736, -0.5412099056982339, 0.8978204133894498, 0.4209085312784178, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18643
+  stamp: 
+    secs: 1573113189
+    nsecs: 784291028
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4664731102672848, 0.15291322286263245, 0.03396472370363441, -0.5312114629906792, 0.8930721360410975, 0.4112506950688745, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18644
+  stamp: 
+    secs: 1573113189
+    nsecs: 884319067
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4587162070805423, 0.15332415320740128, 0.034229590976911625, -0.5212086681831212, 0.8883217918730946, 0.4015886550177702, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18645
+  stamp: 
+    secs: 1573113189
+    nsecs: 984347105
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4509627360623587, 0.15373490172932466, 0.03449434105533598, -0.5112102992755665, 0.883573549572487, 0.39193089009415943, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18646
+  stamp: 
+    secs: 1573113190
+    nsecs:  84300994
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4432075248038934, 0.15414574244236115, 0.03475915055601778, -0.5012096862680101, 0.8788242415449942, 0.38227095751795637, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18647
+  stamp: 
+    secs: 1573113190
+    nsecs: 184247016
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.43545304946986435, 0.15455654416900383, 0.035023934927818384, -0.4912100222604544, 0.8740753841992063, 0.37261194161316286, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18648
+  stamp: 
+    secs: 1573113190
+    nsecs: 284286975
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4276718751229867, 0.15496876030475937, 0.035289630964308115, -0.4811759289528727, 0.8693101763206189, 0.3629196692753241, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18649
+  stamp: 
+    secs: 1573113190
+    nsecs: 384280920
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.41994357326335474, 0.15537817546325766, 0.03555352161645941, -0.47121001654534256, 0.8645773476667543, 0.35329325519007293, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18650
+  stamp: 
+    secs: 1573113190
+    nsecs: 484227895
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.41218936547506924, 0.1557889630163749, 0.03581829685264108, -0.4612106975472719, 0.8598286541665543, 0.3436345725416869, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18651
+  stamp: 
+    secs: 1573113190
+    nsecs: 584260940
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.4044354446214445, 0.15619973536881784, 0.036083062291149715, -0.45121174856136537, 0.8550801363857566, 0.3339762473006473, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18652
+  stamp: 
+    secs: 1573113190
+    nsecs: 684254884
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3966784311791522, 0.1566106715544938, 0.03634793332921374, -0.44120881157546443, 0.8503297246970183, 0.32431406991464107, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18653
+  stamp: 
+    secs: 1573113190
+    nsecs: 784298896
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.38892469837787247, 0.15702143394466012, 0.03661269234648562, -0.43121010508955754, 0.8455813220798805, 0.3146559789126071, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18654
+  stamp: 
+    secs: 1573113190
+    nsecs: 884315967
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3811609673180799, 0.15743272600339636, 0.03687779276436622, -0.42119850550366883, 0.8408267965077602, 0.3049854340263533, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18655
+  stamp: 
+    secs: 1573113190
+    nsecs: 984375000
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3734150584887105, 0.1578430739101797, 0.0371422846242357, -0.41120988830000704, 0.8360831853078208, 0.2953370886055308, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18656
+  stamp: 
+    secs: 1573113191
+    nsecs:  84355115
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3656611721268725, 0.15825384443538287, 0.037407048884987526, -0.40121098379245196, 0.8313346886498674, 0.2856788063276451, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18657
+  stamp: 
+    secs: 1573113191
+    nsecs: 184278011
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.35790607276924613, 0.15866467922035127, 0.03767185456470247, -0.39121051508489574, 0.8265854491506884, 0.27601901313572486, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18658
+  stamp: 
+    secs: 1573113191
+    nsecs: 284264087
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.35015199564090516, 0.15907545985161647, 0.037936625339368715, -0.38121136457734045, 0.821836835666919, 0.2663604932380639, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18659
+  stamp: 
+    secs: 1573113191
+    nsecs: 384320974
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3423941657665963, 0.15948643928866246, 0.038201524255326386, -0.37120737477413096, 0.8170859239934606, 0.25669729889997606, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18660
+  stamp: 
+    secs: 1573113191
+    nsecs: 484287977
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.33464146744708245, 0.15989714687603723, 0.038466247949176274, -0.36121000228822214, 0.8123381548951776, 0.24704049645395643, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18661
+  stamp: 
+    secs: 1573113191
+    nsecs: 584335088
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.32688574059301945, 0.16030801490330873, 0.03873107505538916, -0.3512087244023188, 0.8075885311158335, 0.23737992164912228, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18662
+  stamp: 
+    secs: 1573113191
+    nsecs: 684228897
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3191333682050545, 0.1607187052241068, 0.03899578761997798, -0.3412117722164094, 0.8028409616187309, 0.22772352518518127, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18663
+  stamp: 
+    secs: 1573113191
+    nsecs: 784230947
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.31137650706577485, 0.16112963334136576, 0.03926065345750222, -0.3312090316305082, 0.7980906432006845, 0.21806153750862128, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18664
+  stamp: 
+    secs: 1573113191
+    nsecs: 884306907
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.3036224240508533, 0.16154041428447896, 0.03952542443317169, -0.3212098735320037, 0.7933420261119605, 0.20840301027860408, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18665
+  stamp: 
+    secs: 1573113191
+    nsecs: 984221935
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.29586756353909244, 0.16195123641632903, 0.03979022195725395, -0.31120971282444765, 0.7885929328825025, 0.19874351459436995, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18666
+  stamp: 
+    secs: 1573113192
+    nsecs:  84238052
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2881144469898866, 0.16236196615987453, 0.04005495993197798, -0.30121180101689327, 0.783844907659458, 0.1890861911992116, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18667
+  stamp: 
+    secs: 1573113192
+    nsecs: 184427976
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2803582594877197, 0.1627728585904781, 0.04031980276748441, -0.2912099291093359, 0.779095001778226, 0.1794250426086382, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18668
+  stamp: 
+    secs: 1573113192
+    nsecs: 284209966
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.27260175915950685, 0.16318376759338013, 0.0405846562847513, -0.28120765380177826, 0.7743449043216516, 0.1697635043602707, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18669
+  stamp: 
+    secs: 1573113192
+    nsecs: 384239912
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2648503780426466, 0.16359440540051817, 0.040849335001389694, -0.27121197989422563, 0.7695979418811022, 0.16010834262891363, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18670
+  stamp: 
+    secs: 1573113192
+    nsecs: 484283924
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2570942022501309, 0.1640052972107903, 0.04111417743705829, -0.2612101230866683, 0.7648480431708856, 0.15044720862394437, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18671
+  stamp: 
+    secs: 1573113192
+    nsecs: 584281921
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.24933968302429677, 0.16441610126264886, 0.041378963307588786, -0.25121040247911264, 0.760099158945662, 0.1407881380472839, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18672
+  stamp: 
+    secs: 1573113192
+    nsecs: 684303045
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2415839768585868, 0.16482696819393247, 0.04164378970737702, -0.2412091512715558, 0.7553495478359098, 0.1311275890119728, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18673
+  stamp: 
+    secs: 1573113192
+    nsecs: 784323930
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.23382980419768135, 0.16523775388613873, 0.04190856374409891, -0.23120987757145608, 0.7506008758477928, 0.12146895011843907, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18674
+  stamp: 
+    secs: 1573113192
+    nsecs: 884332895
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.22607526141423923, 0.1656485591859871, 0.04217335041902766, -0.22121012658555067, 0.7458519771958395, 0.1118098501982963, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18675
+  stamp: 
+    secs: 1573113192
+    nsecs: 984364032
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.2183184155517892, 0.16605948649393945, 0.04243821573490916, -0.21120740569964944, 0.7411016681333563, 0.10214788155063693, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18676
+  stamp: 
+    secs: 1573113193
+    nsecs:  84281921
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.21056625680679758, 0.16647016549676968, 0.04270292100444344, -0.20121072901373968, 0.7363542294716694, 0.09249175120152493, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18677
+  stamp: 
+    secs: 1573113193
+    nsecs: 184262990
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.20280919559533228, 0.16688110421306931, 0.042967793673634, -0.19120773042783884, 0.7316037885289869, 0.08282951431398161, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18678
+  stamp: 
+    secs: 1573113193
+    nsecs: 284346103
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.19505663979568238, 0.16729180425029996, 0.04323251250099957, -0.18121054172622142, 0.7268561067101746, 0.07317288939146598, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18679
+  stamp: 
+    secs: 1573113193
+    nsecs: 384300947
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.18730164908190586, 0.16770263327974275, 0.043497314470960814, -0.17121021311866524, 0.7221069337447227, 0.06351323152690555, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18680
+  stamp: 
+    secs: 1573113193
+    nsecs: 484314918
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.17954685099576895, 0.1681134521045278, 0.043762109863457264, -0.16121013291110922, 0.7173578787448509, 0.053853813600362135, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18681
+  stamp: 
+    secs: 1573113193
+    nsecs: 584247112
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.171793105072198, 0.16852421518986171, 0.044026869328802995, -0.15121140950355424, 0.7126094680915939, 0.04419570625313215, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18682
+  stamp: 
+    secs: 1573113193
+    nsecs: 684242963
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.16403476152081073, 0.1689352218395071, 0.04429178578478196, -0.1412067572959948, 0.7078582418411895, 0.034531872076131044, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18683
+  stamp: 
+    secs: 1573113193
+    nsecs: 784264087
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.1562839052444757, 0.16934583184265006, 0.04455644658021191, -0.1312117601884427, 0.7031116008141047, 0.024877364088936198, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18684
+  stamp: 
+    secs: 1573113193
+    nsecs: 884377956
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.14852547584816211, 0.16975684304002336, 0.04482136596745237, -0.12120699728088319, 0.6983603219920832, 0.015213422983036264, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18685
+  stamp: 
+    secs: 1573113193
+    nsecs: 984306097
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.14077282163631027, 0.17016754829074696, 0.04508608815520171, -0.11120968167332931, 0.693612579905427, 0.005556675477756085, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18686
+  stamp: 
+    secs: 1573113194
+    nsecs:  84445953
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.13301925228807565, 0.17057830202181126, 0.0453508415912047, -0.10121118596577455, 0.6888642773872851, -0.004101211926291613, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18687
+  stamp: 
+    secs: 1573113194
+    nsecs: 184334993
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.12526292792301616, 0.17098920170287474, 0.04561568910003247, -0.09120913756878597, 0.6841142876909238, -0.013762530994015233, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18688
+  stamp: 
+    secs: 1573113194
+    nsecs: 284369945
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.11750951802893829, 0.17139994698668246, 0.045880437091312655, -0.08121084748287849, 0.6793660828228497, -0.02342021978111341, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18689
+  stamp: 
+    secs: 1573113194
+    nsecs: 384288072
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.10975367718025789, 0.17181082105294224, 0.04614526808998659, -0.07120942259697544, 0.6746163892329572, -0.033080936578252, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18690
+  stamp: 
+    secs: 1573113194
+    nsecs: 484462976
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.1020001317333969, 0.1722215735178054, 0.0464100207098531, -0.06121095771106821, 0.6698681013520678, -0.042738794210621024, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18691
+  stamp: 
+    secs: 1573113194
+    nsecs: 584216117
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.09424601871741713, 0.17263235605025715, 0.046674792709938934, -0.05121176092516201, 0.6651194658906312, -0.05239735881011669, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18692
+  stamp: 
+    secs: 1573113194
+    nsecs: 684426069
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.08648926620739035, 0.17304327841276382, 0.046939654838207896, -0.04120916042043761, 0.6603692139973726, -0.062059211177498914, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18693
+  stamp: 
+    secs: 1573113194
+    nsecs: 784353017
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.07873342650512825, 0.17345415241829085, 0.04720448579773622, -0.031207737012880588, 0.655619521109549, -0.07171992654665274, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18694
+  stamp: 
+    secs: 1573113194
+    nsecs: 884305953
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.07097989275113135, 0.17386490426371187, 0.04746923801833811, -0.02120928720532582, 0.6508712403893947, -0.08137776961432777, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18695
+  stamp: 
+    secs: 1573113194
+    nsecs: 984289884
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.06322531458930436, 0.1742757114377685, 0.04773402590129746, -0.011209490597770023, 0.6461223200716425, -0.0910369136019758, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18696
+  stamp: 
+    secs: 1573113195
+    nsecs:  84671974
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.055471600692792646, 0.1746864728264343, 0.04799878427304699, -0.001210808490215075, 0.6413739290318252, -0.10069498105612969, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18697
+  stamp: 
+    secs: 1573113195
+    nsecs: 184247970
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.047712949511032485, 0.17509749577313174, 0.04826371123337493, 0.008794240417344685, 0.6366225143879201, -0.11035919841916679, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18698
+  stamp: 
+    secs: 1573113195
+    nsecs: 284260034
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.039959720905892976, 0.17550823145296168, 0.04852845303436169, 0.018792296724899158, 0.6318744205415812, -0.12001666139179479, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18699
+  stamp: 
+    secs: 1573113195
+    nsecs: 384299039
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.03220690702402903, 0.17591894516237705, 0.04879318067420444, 0.028789818232453232, 0.6271265806726669, -0.12967360778289505, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18700
+  stamp: 
+    secs: 1573113195
+    nsecs: 484225034
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.02445256902637264, 0.1763297396134767, 0.049057960356516245, 0.03878930514000879, 0.6223778074319686, -0.13933245262076907, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18701
+  stamp: 
+    secs: 1573113195
+    nsecs: 584372997
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.016698361318884383, 0.17674052716231362, 0.049322735589939014, 0.04878862403388853, 0.6176291139812489, -0.1489911351685136, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18702
+  stamp: 
+    secs: 1573113195
+    nsecs: 684308052
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.008943644053885114, 0.1771513417055114, 0.0495875282227163, 0.05878860001979358, 0.6128801084764154, -0.15865045242381615, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18703
+  stamp: 
+    secs: 1573113195
+    nsecs: 784281015
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [-0.0011876090266183768, 0.17756222605859204, 0.049852365851813664, 0.06879027530569623, 0.6081302959711395, -0.1683114110908393, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18704
+  stamp: 
+    secs: 1573113195
+    nsecs: 884361028
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.006569901571790916, 0.17797318858165156, 0.05011725386577412, 0.07879385339159621, 0.6033795798229276, -0.17797420773716094, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18705
+  stamp: 
+    secs: 1573113195
+    nsecs: 984438896
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.014321923911197652, 0.17838386035824824, 0.050381954477602305, 0.08879035417778885, 0.5986322246963137, -0.18763016817874767, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18706
+  stamp: 
+    secs: 1573113196
+    nsecs:  84269046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.022075141814801632, 0.17879459547115273, 0.050646695913174354, 0.09878839668534332, 0.5938841374036182, -0.19728761782148582, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18707
+  stamp: 
+    secs: 1573113196
+    nsecs: 184312105
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.029832201492114442, 0.17920553410617895, 0.05091156852997973, 0.10879139329290154, 0.589133697400454, -0.2069498527980806, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18708
+  stamp: 
+    secs: 1573113196
+    nsecs: 284322023
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.03758612321554808, 0.17961630650470095, 0.05117633399818887, 0.11879034340045669, 0.5843851790869835, -0.21660817912255878, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18709
+  stamp: 
+    secs: 1573113196
+    nsecs: 384309053
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.04534000981002813, 0.1800270770422286, 0.0514410982668845, 0.1287892482080118, 0.5796366822865596, -0.2262664616902247, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18710
+  stamp: 
+    secs: 1573113196
+    nsecs: 484313011
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.05309456680142612, 0.18043788309475878, 0.05170588542695821, 0.13878901751556755, 0.5748877749336236, -0.23592557930787328, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18711
+  stamp: 
+    secs: 1573113196
+    nsecs: 584309101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.06084933425635622, 0.18084870029682248, 0.05197067977352125, 0.14878905822312347, 0.5701387386923686, -0.24558495908002187, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18712
+  stamp: 
+    secs: 1573113196
+    nsecs: 684298992
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.06860482011001946, 0.18125955555683687, 0.05223549865053271, 0.1587900253306801, 0.5653892625021868, -0.2552452336934706, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18713
+  stamp: 
+    secs: 1573113196
+    nsecs: 784282922
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.07635935329437823, 0.18167036034816342, 0.05250028499769109, 0.1687897639382358, 0.5606403697287328, -0.26490432165694394, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18714
+  stamp: 
+    secs: 1573113196
+    nsecs: 884489059
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.08411825580712864, 0.1820813966093922, 0.05276522053996888, 0.17879513694579577, 0.5558888011691894, -0.2745688520792053, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18715
+  stamp: 
+    secs: 1573113196
+    nsecs: 984236955
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.09186917651229824, 0.18249201002572243, 0.0530298835353863, 0.1887902171365573, 0.5511421206857479, -0.2842234403193007, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18716
+  stamp: 
+    secs: 1573113197
+    nsecs:  84295034
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.09962308193399866, 0.18290278156064246, 0.053294648446956326, 0.198789146222464, 0.5463936123554939, -0.29388174633825287, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18717
+  stamp: 
+    secs: 1573113197
+    nsecs: 184367895
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.1073777591070135, 0.18331359397992394, 0.05355943971075242, 0.20878907050836926, 0.5416446314030777, -0.30354101365476543, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18718
+  stamp: 
+    secs: 1573113197
+    nsecs: 284348964
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.11513445065021957, 0.18372451311264726, 0.05382429975724788, 0.21879159239427087, 0.5368944168460309, -0.31320279008155005, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18719
+  stamp: 
+    secs: 1573113197
+    nsecs: 384305000
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.1228872770806003, 0.1841352274868339, 0.05408902782557237, 0.22878913008357116, 0.532146569292378, -0.3228597521031499, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18720
+  stamp: 
+    secs: 1573113197
+    nsecs: 484241008
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.13064188354721326, 0.1845460361603672, 0.054353816675027145, 0.2387889631911269, 0.5273976316407142, -0.3325189313473905, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18721
+  stamp: 
+    secs: 1573113197
+    nsecs: 584258079
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.1383959762625733, 0.18495681761737162, 0.054618587981927855, 0.2487881337986822, 0.5226490086114207, -0.3421774706603258, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18722
+  stamp: 
+    secs: 1573113197
+    nsecs: 684257984
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.14615170755362755, 0.18536768587969754, 0.05488341523964627, 0.25878941740623906, 0.5178993821148538, -0.35183805099189996, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18723
+  stamp: 
+    secs: 1573113197
+    nsecs: 784303903
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.15390590441509064, 0.18577847285395455, 0.05514819010272059, 0.2687887223137944, 0.5131506953062632, -0.36149672002977756, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18724
+  stamp: 
+    secs: 1573113197
+    nsecs: 884315013
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.16166177048345473, 0.18618934825625438, 0.05541302196254602, 0.27879017972135145, 0.5084009862717822, -0.37115746824068885, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18725
+  stamp: 
+    secs: 1573113197
+    nsecs: 984309911
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.16941605799778045, 0.18660014003294492, 0.05567779992105364, 0.28878960152890687, 0.5036522439471839, -0.3808162501962564, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18726
+  stamp: 
+    secs: 1573113198
+    nsecs:  84398031
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.17717020918384915, 0.18701092458749846, 0.055942573224495605, 0.29878884753646223, 0.49890358511030297, -0.3904748623406187, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18727
+  stamp: 
+    secs: 1573113198
+    nsecs: 184292078
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.18492591628012744, 0.18742179156807995, 0.05620739965605903, 0.30879009994401907, 0.4941539734306687, -0.4001354125350506, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18728
+  stamp: 
+    secs: 1573113198
+    nsecs: 284286022
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19268064984686173, 0.18783260697487977, 0.05647219284547548, 0.31879009695157495, 0.48940495794261757, -0.4097947500958813, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18729
+  stamp: 
+    secs: 1573113198
+    nsecs: 384274005
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18730
+  stamp: 
+    secs: 1573113198
+    nsecs: 484214067
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18731
+  stamp: 
+    secs: 1573113198
+    nsecs: 584244966
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18732
+  stamp: 
+    secs: 1573113198
+    nsecs: 684387922
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18733
+  stamp: 
+    secs: 1573113198
+    nsecs: 784374952
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18734
+  stamp: 
+    secs: 1573113198
+    nsecs: 884304046
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18735
+  stamp: 
+    secs: 1573113198
+    nsecs: 984288930
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18736
+  stamp: 
+    secs: 1573113199
+    nsecs:  84296941
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18737
+  stamp: 
+    secs: 1573113199
+    nsecs: 184298992
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18738
+  stamp: 
+    secs: 1573113199
+    nsecs: 284354925
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18739
+  stamp: 
+    secs: 1573113199
+    nsecs: 384373903
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18740
+  stamp: 
+    secs: 1573113199
+    nsecs: 484698057
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18741
+  stamp: 
+    secs: 1573113199
+    nsecs: 584304094
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18742
+  stamp: 
+    secs: 1573113199
+    nsecs: 684344053
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18743
+  stamp: 
+    secs: 1573113199
+    nsecs: 784372091
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18744
+  stamp: 
+    secs: 1573113199
+    nsecs: 884357929
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18745
+  stamp: 
+    secs: 1573113199
+    nsecs: 984345912
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18746
+  stamp: 
+    secs: 1573113200
+    nsecs:  84497928
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18747
+  stamp: 
+    secs: 1573113200
+    nsecs: 184456110
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18748
+  stamp: 
+    secs: 1573113200
+    nsecs: 284384965
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18749
+  stamp: 
+    secs: 1573113200
+    nsecs: 384721040
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18750
+  stamp: 
+    secs: 1573113200
+    nsecs: 484391927
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18751
+  stamp: 
+    secs: 1573113200
+    nsecs: 584419965
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18752
+  stamp: 
+    secs: 1573113200
+    nsecs: 684371948
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18753
+  stamp: 
+    secs: 1573113200
+    nsecs: 784452915
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18754
+  stamp: 
+    secs: 1573113200
+    nsecs: 884423017
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18755
+  stamp: 
+    secs: 1573113200
+    nsecs: 984473943
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18756
+  stamp: 
+    secs: 1573113201
+    nsecs:  84527969
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18757
+  stamp: 
+    secs: 1573113201
+    nsecs: 184312105
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18758
+  stamp: 
+    secs: 1573113201
+    nsecs: 284328937
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18759
+  stamp: 
+    secs: 1573113201
+    nsecs: 384413957
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18760
+  stamp: 
+    secs: 1573113201
+    nsecs: 484196901
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18761
+  stamp: 
+    secs: 1573113201
+    nsecs: 584181070
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18762
+  stamp: 
+    secs: 1573113201
+    nsecs: 684261083
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18763
+  stamp: 
+    secs: 1573113201
+    nsecs: 784598112
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18764
+  stamp: 
+    secs: 1573113201
+    nsecs: 884532928
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18765
+  stamp: 
+    secs: 1573113201
+    nsecs: 984836101
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18766
+  stamp: 
+    secs: 1573113202
+    nsecs:  84681034
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18767
+  stamp: 
+    secs: 1573113202
+    nsecs: 184767961
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18768
+  stamp: 
+    secs: 1573113202
+    nsecs: 284354925
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
+header: 
+  seq: 18769
+  stamp: 
+    secs: 1573113202
+    nsecs: 384394884
+  frame_id: ''
+name: [joint1, joint2, joint3, joint4, joint5, joint6, finger_joint1, finger_joint2]
+position: [0.19330701010120324, 0.18786578908751797, 0.05649358054732797, 0.31959781015218525, 0.48902137357787195, -0.4105749477750545, 0.0, 0.0]
+velocity: []
+effort: []
+---
