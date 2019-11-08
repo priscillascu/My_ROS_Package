@@ -218,3 +218,11 @@ add_dependencies(test_custom ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORT
 target_link_libraries(test_custom
   ${catkin_LIBRARIES}
 )
+
+add_executable(more_target
+  src/more_target.cpp
+)
+add_dependencies(more_target ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(more_target
+  ${catkin_LIBRARIES}
+)
