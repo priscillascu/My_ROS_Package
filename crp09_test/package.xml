@@ -68,4 +68,7 @@
 <build_export_depend>cmake_modules</build_export_depend>
 <exec_depend>catkin</exec_depend>
 <exec_depend>cmake_modules</exec_depend>
+<build_depend>moveit_visual_tools</build_depend>
+<build_export_depend>moveit_visual_tools</build_export_depend>
+<exec_depend>moveit_visual_tools</exec_depend>
 </package>

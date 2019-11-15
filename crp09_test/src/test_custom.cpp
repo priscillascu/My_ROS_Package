@@ -6,6 +6,8 @@
 #include<moveit_msgs/AttachedCollisionObject.h>
 #include<moveit_msgs/CollisionObject.h>
 
+#include <moveit_visual_tools/moveit_visual_tools.h>
+
 #include<iostream>
 #include <cmath>
 
@@ -56,14 +58,11 @@ int main(int argc, char **argv)
     sleep(2.0);
 
     moveit::planning_interface::MoveGroupInterface group("arm");
-
-    ROS_INFO("Reference frame: %s", group.getEndEffectorLink().c_str());
-
     geometry_msgs::Pose target_pose1;
 
   //角度
   //输入绕固定坐标轴x的角度，单位°
-   my_RPY2qua.roll_deg = -45;
+   my_RPY2qua.roll_deg = -90;
    //输入绕固定坐标轴y的角度，单位°
    my_RPY2qua.yaw_deg = 0;
    //输入绕固定坐标轴z的角度，单位° 
@@ -75,14 +74,14 @@ int main(int argc, char **argv)
     target_pose1.orientation.w = my_RPY2qua.getQua_w();
 
 //输入末端相对固定坐标系的位置
-    target_pose1.position.x = 0;
-    target_pose1.position.y = 0.345;
-    target_pose1.position.z = 0.876;
+    target_pose1.position.x = 0.8/1.414;
+    target_pose1.position.y = -0.8/1.414;
+    target_pose1.position.z = 0.01;
 
     group.setPoseTarget(target_pose1);
 
     moveit::planning_interface::MoveGroupInterface::Plan my_plan;
-    moveit::planning_interface::MoveItErrorCode success = group.plan(my_plan);
+    moveit::planning_interface::MoveItErrorCode success = group.plan(my_plan);    
 
     if(success)
     {

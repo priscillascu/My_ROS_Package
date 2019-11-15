@@ -7,7 +7,7 @@ project(crp09_test)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS catkin cmake_modules interactive_markers moveit_core moveit_ros_perception moveit_ros_planning_interface pluginlib roscpp std_msgs)
+find_package(catkin REQUIRED COMPONENTS catkin cmake_modules interactive_markers moveit_core moveit_ros_perception moveit_ros_planning_interface pluginlib roscpp std_msgs moveit_visual_tools)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -203,11 +203,11 @@ include_directories(
 # catkin_add_nosetests(test)
 
 
-add_executable(random_test
-  src/random_test.cpp
+add_executable(pic_place
+  src/pic_place.cpp
 )
-add_dependencies(random_test ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(random_test
+add_dependencies(pic_place ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(pic_place
   ${catkin_LIBRARIES}
 )
 
@@ -216,13 +216,5 @@ add_executable(test_custom
 )
 add_dependencies(test_custom ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(test_custom
-  ${catkin_LIBRARIES}
-)
-
-add_executable(more_target
-  src/more_target.cpp
-)
-add_dependencies(more_target ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(more_target
   ${catkin_LIBRARIES}
 )
