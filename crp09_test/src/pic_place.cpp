@@ -176,18 +176,33 @@ int main(int argc, char **argv)
     }
 
 	//放下物体
+	moveit_msgs::AttachedCollisionObject leave_object;
 	grasping_object.operation = grasping_object.REMOVE;
-	attacched_object.link_name = "link_tool";
-	attacched_object.object = grasping_object;
-	current_scene.applyAttachedCollisionObject( attacched_object );
+	leave_object.link_name = "link_tool";
+	leave_object.object = grasping_object;
+	current_scene.applyAttachedCollisionObject( leave_object );
 	sleep(5);
 
 	//归位
-	target_pose.position.y = 0.3;
+	target_pose.position.y = 0.0;
 	target_pose.position.x = 0.85;
-	target_pose.position.z = 0.6;
+	target_pose.position.z = 0.41;
 
 	group.setPoseTarget(target_pose);
-	group.execute(move_plan);
-	sleep(2);
+	
+    moveit::planning_interface::MoveItErrorCode success3 = group.plan(move_plan);    
+
+    if(success3)
+    {
+      cout << "Nice! You got it!"<<endl;
+      cout << "Executing your plan..." << endl;
+      group.execute(move_plan);
+      cout << "In position! Go on!" << endl;
+    }
+      
+    else
+    {
+       cout << "Oh no, it's falled!!!"<<endl;
+       cout << "Please try again..." << endl;
+    }
 }
