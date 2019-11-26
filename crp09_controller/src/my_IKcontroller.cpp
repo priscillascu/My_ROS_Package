@@ -61,7 +61,7 @@ int main(int argc, char **argv)
     //geometry_msgs::Pose;
 
     std::vector<double> joint_position(6);
-    joint_position = {3.14/2, 0, 0, 0, 0, 0};
+    joint_position = {3.14/2, -3.14/6, 0, 0, 0, 0};
      group.setJointValueTarget(joint_position);
 
     moveit::planning_interface::MoveGroupInterface::Plan my_plan;
