@@ -7,7 +7,7 @@ project(my_car)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS std_msgs rospy roscpp urdf gazebo_msgs gazebo_plugins gazebo_ros gazebo_ros_control)
+find_package(catkin REQUIRED COMPONENTS std_msgs rospy roscpp urdf gazebo_msgs gazebo_plugins gazebo_ros gazebo_ros_control nav_msgs tf)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -112,6 +112,7 @@ catkin_package(
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(
+  include ${catkin_INCLUDE_DIRS}
 # include
 # ${catkin_INCLUDE_DIRS}
 )
@@ -200,3 +201,19 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+
+add_executable(move_stright
+  src/move_stright.cpp
+)
+add_dependencies(move_stright ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(move_stright
+  ${catkin_LIBRARIES}
+)
+
+add_executable(move_circle
+  src/move_circle.cpp
+)
+add_dependencies(move_circle ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(move_circle
+  ${catkin_LIBRARIES}
+)
