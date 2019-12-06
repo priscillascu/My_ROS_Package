@@ -1,36 +1,34 @@
+#include <ros/ros.h>
+#include <geometry_msgs/Twist.h>
 #include <tf/transform_broadcaster.h>
 #include <nav_msgs/Odometry.h>
 
 int main(int argc, char** argv)
 {
-    ros::init(argc, argv, "odometry_publisher");
-    ros::NodeHandle n;
-    ros::Publisher odom_pub = n.advertise<nav_msgs::Odometry>("/odom", 50);
-    tf::TransformBroadcaster odom_broadcaster;
+  ros::init(argc, argv, "move_to_target");
+  ros::Publisher vel_pub_;
+  ros::NodeHandle n;
+  int linear_, angular_;
+  vel_pub_ = n.advertise<geometry_msgs::Twist>("/cmd_vel", 1);
+  ros::Publisher odom_pub = n.advertise<nav_msgs::Odometry>("/odom", 1);
+  tf::TransformBroadcaster odom_broadcaster;
+  geometry_msgs::Twist vel;
 
-    double x = 0.0;
-    double y = 0.0;
-    double th = 0.0;
+  ros::Time current_time, last_time;
+  current_time = ros::Time::now();
+  last_time = ros::Time::now();
+  ros::Rate loop_rate(1);
 
-    double vx = 0;
-    double vy = 0;
-    double vth = 90;
-
-    ros::Time current_time, last_time;
-    current_time = ros::Time::now();
-    last_time = ros::Time::now();
-
-    ros::Rate r(50.0);
-    while(n.ok())
-    {
+  while(n.ok())
+  {
         ros::spinOnce();               // check for incoming messages
         current_time = ros::Time::now();
 
         //compute odometry in a typical way given the velocities of the robot
         double dt = (current_time - last_time).toSec();
-        double delta_x = vx* dt;
-        double delta_y = vy*dt;
-        double delta_th = vth;
+        double delta_x = (vx * cos(th) - vy * sin(th)) * dt;
+        double delta_y = (vx * sin(th) + vy * cos(th)) * dt;
+        double delta_th = vth * dt;
 
         x += delta_x;
         y += delta_y;
@@ -71,6 +69,8 @@ int main(int argc, char** argv)
         odom_pub.publish(odom);
         last_time = current_time;
         r.sleep();
-
-        }
+        vel.linear.x = 1.0;
+        vel_pub_.publish(vel);
+        ros::spinOnce();
+        loop_rate.sleep();
 }
