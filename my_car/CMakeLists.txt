@@ -202,13 +202,13 @@ include_directories(
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
 
-#add_executable(move_stright
-#  src/move_stright.cpp
-#)
-#add_dependencies(move_stright ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-#target_link_libraries(move_stright
-#  ${catkin_LIBRARIES}
-#)
+add_executable(move_stright
+  src/move_stright.cpp
+)
+add_dependencies(move_stright ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(move_stright
+  ${catkin_LIBRARIES}
+)
 
 add_executable(move_target
   src/move_target.cpp
@@ -225,19 +225,3 @@ add_dependencies(odom_tf ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_T
 target_link_libraries(odom_tf
   ${catkin_LIBRARIES}
 )
-
-#add_executable(move_tri
- # src/move_to_target.cpp
-#)
-#add_dependencies(move_tri ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-#target_link_libraries(move_tri
- # ${catkin_LIBRARIES}
-#)
-
-#add_executable(odom_subscibe
- # src/odom_subscibe.cpp
-#)
-#add_dependencies(odom_subscibe ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-#target_link_libraries(odom_subscibe
- # ${catkin_LIBRARIES}
-#)

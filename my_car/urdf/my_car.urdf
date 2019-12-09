@@ -207,6 +207,7 @@
 
  <!-- SENSORS -->
   <!-- hokuyo -->
+  <!--
   <link name="hokuyo_link">
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0.025"/>
@@ -222,7 +223,9 @@
     <parent link="base_link"/>
     <child link="hokuyo_link"/>
   </joint>
+  -->
 
+<!--
   <gazebo reference="hokuyo_link">
     <material>Gazebo/Blue</material>
     <turnGravityOff>false</turnGravityOff>
@@ -251,6 +254,7 @@
       </plugin>
     </sensor>
   </gazebo>
+  -->
 
    <gazebo>
     <plugin filename="libgazebo_ros_diff_drive.so" name="my_car_controller_back">
