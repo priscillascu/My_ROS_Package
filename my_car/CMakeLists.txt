@@ -210,11 +210,11 @@ include_directories(
 #  ${catkin_LIBRARIES}
 #)
 
-add_executable(move_circle
-  src/move_circle.cpp
+add_executable(move_target
+  src/move_target.cpp
 )
-add_dependencies(move_circle ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(move_circle
+add_dependencies(move_target ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(move_target
   ${catkin_LIBRARIES}
 )
 

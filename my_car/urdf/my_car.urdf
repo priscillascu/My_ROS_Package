@@ -18,8 +18,8 @@
       <origin rpy="0 0 1.57075" xyz="0 0 0.075"/>  
       </collision>
       <inertial>
-	<mass value="10"/>
-	<inertia ixx="10.0" ixy="0.0" ixz="0.0" iyy="10.0" iyz="0.0" izz="10.0"/>
+	<mass value="50"/>
+	<inertia ixx="50.0" ixy="0.0" ixz="0.0" iyy="50.0" iyz="0.0" izz="50.0"/>
     </inertial>
 </link>  
 <gazebo reference="base_link">
@@ -62,7 +62,7 @@
     <axis xyz="0 0 1"/>  
     <parent link="base_link"/>  
     <child link="right_back_wheel"/>  
-    <origin rpy="0 -1.57075 0" xyz="0.25 -0.25 0.075"/>  
+    <origin rpy="0 -1.57075 0" xyz="0.25 0 0.075"/>  
     <limit effort="100" velocity="100"/>  
     <joint_properties damping="0.0" friction="0.0"/>  
 </joint>  
@@ -115,7 +115,7 @@
  <gazebo reference="caster_wheel_front_joint">
     <turnGravityOff>false</turnGravityOff>
   </gazebo>
- 
+
  <link name="caster_wheel_back">  
     <visual>  
       <geometry>  
@@ -156,6 +156,7 @@
     <turnGravityOff>false</turnGravityOff>
   </gazebo>
 
+
   <link name="left_back_wheel">  
     <visual>  
       <geometry>  
@@ -191,7 +192,7 @@
     <axis xyz="0 0 1"/>  
     <parent link="base_link"/>  
     <child link="left_back_wheel"/>  
-    <origin rpy="0 -1.57075 0" xyz="-0.25 -0.25 0.075"/>  
+    <origin rpy="0 -1.57075 0" xyz="-0.25 0 0.075"/>  
     <limit effort="100" velocity="100"/>  
     <joint_properties damping="0.0" friction="0.0"/>  
   </joint>  
